@@ -1,5 +1,5 @@
 function add(){
-var a = 5
-var b = 5
+var a = 1
+var b = 1276
 return a + b
 }
