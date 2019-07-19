@@ -10,5 +10,5 @@ return a - b
 
 function multiplay (a,b){
 
-return a*b
+return a * b
 }
