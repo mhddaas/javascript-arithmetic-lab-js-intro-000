@@ -23,3 +23,8 @@ function inc(n){
 
 return n +1 ;
 }
+
+function dec (n){
+
+  return a -1 ;
+}
